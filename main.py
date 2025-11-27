@@ -300,5 +300,5 @@ elif st.session_state.step == 6:
                 st.session_state.form_data["teste_aderencia"] = teste_aderencia
                 st.session_state.form_data["teste_visual"] = teste_visual
 
-                st.session_state.step = 7
+                st.session_state.step = 6
                 st.rerun()
